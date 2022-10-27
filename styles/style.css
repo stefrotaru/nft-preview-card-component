@@ -28,7 +28,6 @@ body {
 }
 
 .nft__image {
-    content: url(../images/image-equilibrium.jpg);
     border-radius: 0.5rem;
     height: 20rem;
 }
